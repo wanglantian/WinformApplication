@@ -1,0 +1,11 @@
+C:\Project\Sample\DataGridViewApplication\DataGridViewApplication\bin\Debug\DataGridViewApplication.exe.config
+C:\Project\Sample\DataGridViewApplication\DataGridViewApplication\bin\Debug\DataGridViewApplication.exe
+C:\Project\Sample\DataGridViewApplication\DataGridViewApplication\bin\Debug\DataGridViewApplication.pdb
+C:\Project\Sample\DataGridViewApplication\DataGridViewApplication\obj\Debug\DataGridViewApplication.csprojAssemblyReference.cache
+C:\Project\Sample\DataGridViewApplication\DataGridViewApplication\obj\Debug\DataGridViewApplication.Form1.resources
+C:\Project\Sample\DataGridViewApplication\DataGridViewApplication\obj\Debug\DataGridViewApplication.Properties.Resources.resources
+C:\Project\Sample\DataGridViewApplication\DataGridViewApplication\obj\Debug\DataGridViewApplication.csproj.GenerateResource.cache
+C:\Project\Sample\DataGridViewApplication\DataGridViewApplication\obj\Debug\DataGridViewApplication.csproj.CoreCompileInputs.cache
+C:\Project\Sample\DataGridViewApplication\DataGridViewApplication\obj\Debug\DataGridViewApplication.exe
+C:\Project\Sample\DataGridViewApplication\DataGridViewApplication\obj\Debug\DataGridViewApplication.pdb
+C:\Project\Sample\DataGridViewApplication\DataGridViewApplication\obj\Debug\DataGridViewApplication.ContentEditForm.resources
